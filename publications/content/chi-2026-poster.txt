@@ -1,0 +1,10 @@
+title: [Add exact CHI 2026 poster title]
+authors: [Add authors in publication order]
+year: 2026
+venue: CHI 2026
+type: Poster
+status: Accepted — verify final bibliographic details
+paper:
+code:
+doi:
+project:

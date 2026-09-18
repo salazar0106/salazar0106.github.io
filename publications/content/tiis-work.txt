@@ -1,0 +1,10 @@
+title: [Add exact TiiS work title]
+authors: [Add authors in publication order]
+year: TBD
+venue: ACM Transactions on Interactive Intelligent Systems (TiiS) — verify venue details
+type: Journal article
+status: Major revision — update status when confirmed
+paper:
+code:
+doi:
+project:

@@ -1,0 +1,9 @@
+title: Tracking changing goals in story co-writing [working title]
+date: YYYY-MM-DD
+summary: Exploring how a creative partner might recognize when a writer’s story goals change over time.
+tags: Human–AI co-creativity, Storytelling, Creative goals
+image: assets/project-placeholder.svg
+url:
+code:
+
+This is a starter description based on a known research direction. Replace the working title, date, and text with confirmed details before publishing as a completed project.

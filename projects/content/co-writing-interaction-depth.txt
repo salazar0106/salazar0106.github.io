@@ -1,0 +1,9 @@
+title: Interaction depth and suggestion framing in co-writing [working title]
+date: YYYY-MM-DD
+summary: A co-writing experiment examining how interaction depth and the framing of AI suggestions shape the experience.
+tags: Co-writing, Human–AI interaction, Experiment
+image: assets/project-placeholder.svg
+url:
+code:
+
+This is a starter project entry. Add the confirmed study design, findings, dates, images, and links when ready.

@@ -1,0 +1,9 @@
+title: Systematic review of human–AI co-creativity [working title]
+date: YYYY-MM-DD
+summary: Reviewing research on how people and AI systems create together.
+tags: Human–AI co-creativity, Literature review
+image: assets/project-placeholder.svg
+url:
+code:
+
+This entry is a placeholder for known review work. Replace the working title and add confirmed scope, methods, and publication links when available.
