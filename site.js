@@ -1,9 +1,9 @@
 /* Edit these contact links. Leave a URL empty to hide that link. */
 const CONTACT = {
-  email: "", // Example: "mailto:saloni@example.com"
-  googleScholar: "", // Paste your profile URL
-  github: "", // Paste your profile URL
-  linkedin: "" // Paste your profile URL
+  email: "s.m.singh@vu.nl", // Example: "mailto:saloni@example.com"
+  googleScholar: "https://scholar.google.com/citations?user=3yccaoEAAAAJ&hl=en", // Paste your profile URL
+  github: "https://github.com/salazar0106/", // Paste your profile URL
+  linkedin: "https://www.linkedin.com/in/saloni-singh-568292113/" // Paste your profile URL
 };
 
 const $ = (selector) => document.querySelector(selector);
