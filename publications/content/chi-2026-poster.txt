@@ -1,10 +1,10 @@
-title: [Add exact CHI 2026 poster title]
-authors: [Add authors in publication order]
+title: Diving into Co-Creativity: Interaction Depth and Sentence Framing as Design Levers for Co-writing with AI
+authors: Saloni Singh, Kim Baraka, Koen Hindriks, Dirk Heylen
 year: 2026
 venue: CHI 2026
 type: Poster
-status: Accepted — verify final bibliographic details
+status: Accepted
 paper:
 code:
-doi:
+doi: https://doi.org/10.1145/3772363.3798698
 project:

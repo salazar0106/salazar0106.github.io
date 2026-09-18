@@ -1,10 +1,10 @@
-title: [Add exact TiiS work title]
-authors: [Add authors in publication order]
-year: TBD
-venue: ACM Transactions on Interactive Intelligent Systems (TiiS) — verify venue details
+title: A Systematic Review of Artistic Human-AI Co-Creative Systems and Interaction Design
+authors: Saloni Singh, Koen Hindriks, Dirk Heylen, Kim Baraka
+year: 2026
+venue: ACM Transactions on Interactive Intelligent Systems (TiiS)
 type: Journal article
-status: Major revision — update status when confirmed
-paper:
+status: Just Accepted
+paper: https://arxiv.org/abs/2506.21333
 code:
-doi:
+doi: https://doi.org/10.1145/3834857
 project:
